@@ -1,4 +1,4 @@
-s# Wetter Widget für Deutschland mit Suchleiste
+Wetter Widget für Deutschland mit Suchleiste
 
 Ein responsives Wetter-Widget für ganz Deutschland mit Suchfunktion für Städte.
 
@@ -11,9 +11,10 @@ Ein responsives Wetter-Widget für ganz Deutschland mit Suchfunktion für Städt
 - Vollständig client-seitig, responsiv für Mobile/Desktop
   
 ## Verwendung
-1. Öffne `index.html` in deinem Browser
-2. Suche nach einer Stadt (z.B. "Berlin", "München")
-3. Wetterdaten werden automatisch geladen
+1. Lade die Dateien runter und packe sie in einen Ordner.
+2. Öffne `index.html` in deinem Browser
+3. Suche nach einer Stadt (z.B. "Berlin", "München")
+4. Wetterdaten werden automatisch geladen
 
 ## Struktur
 - `index.html`: Hauptseite mit Suchleiste und Wetteranzeige
