@@ -14,4 +14,4 @@ No coding needed - just click & use! ☁️
 
 ## Local run
 
-Double-click `final_fixed_wetter_widget.html`
+Double-click `index.html`
